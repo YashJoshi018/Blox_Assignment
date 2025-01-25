@@ -1,0 +1,54 @@
+1. Mandatory : Elaborate what your internship or academic projects were?
+a. What did the system do?
+b. What other systems have you seen in the wild like that?
+c. How do you approach the development problem?
+d. What were interesting aspects where you copied code from Stack Overflow?
+e. What did you learn from some very specific copy paste? Mention explicitly some
+of them.
+
+
+Q.) Elaborate what your internship or academic projects were?
+
+	In my college, I worked on a Hotel Management System project. It helped manage hotel operations like room booking, customer check-ins/outs, staff details, and billing. It was built using Java, JSP/Servlets, and MySQL.
+	
+
+a) What did the system do?
+
+The system allowed:
+
+	1)Room Booking: Check room availability and book rooms.			
+	2)Customer Management: Store and manage customer details like check-in/check-out.	
+	3)Billing: Automated bill generation with taxes and additional charges.	
+	4)Staff Management: Track staff details and schedules.
+
+
+
+b) What other systems have you seen in the wild like that?
+
+	Local Hotel Software: Many small hotels use desktop-based software for room and customer management.
+
+
+c) How do you approach the development problem?
+
+	1) Understand Requirements: Listed features needed, like booking, billing, and customer data.
+	2) Design: Made diagrams to understand the flow of the system.
+	3) Development: Built features one by one (like booking first, then billing).
+	4) Testing: Tested every module to avoid errors.
+
+
+
+d) What were interesting aspects where you copied code from Stack Overflow?
+
+	1)Email Validation: Used a regex code to validate email input.
+	2)Database Connection: Learned how to handle database connections efficiently.
+
+
+e) What did you learn from some very specific copy-paste?
+
+	1)Exception Handling: Learned how to handle errors while connecting to the database properly.	
+	2)SQL Pagination: Learned how to show large data in smaller parts using LIMIT and OFFSET.
+
+
+
+
+
